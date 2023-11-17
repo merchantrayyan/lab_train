@@ -1,0 +1,1 @@
+"are you related?" "No" "Are you <more specific type of related>?"

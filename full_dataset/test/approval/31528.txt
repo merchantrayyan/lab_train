@@ -1,0 +1,1 @@
+Starting field position does not affect dvoa

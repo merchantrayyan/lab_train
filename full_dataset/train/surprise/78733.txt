@@ -1,0 +1,1 @@
+I am surprised Facebook can't detect a non mobile device and redirect to the normal page.

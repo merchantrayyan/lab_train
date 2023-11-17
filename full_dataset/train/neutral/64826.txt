@@ -1,0 +1,1 @@
+Although it can use a CD, Windows and Linux will both automatically install drivers, so it's weird to do it manually. 

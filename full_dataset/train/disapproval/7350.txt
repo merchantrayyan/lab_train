@@ -1,0 +1,1 @@
+True, but it is deceptive when dealing with c diff, it may give them a false sense of security.

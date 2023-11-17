@@ -1,0 +1,1 @@
+Run the addresses through the property records. If the mailing address of owner ain't local, they its a lie. 

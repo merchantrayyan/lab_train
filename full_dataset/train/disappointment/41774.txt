@@ -1,0 +1,1 @@
+Your logic is pretty messed up and the pos assumption has zero to do with this. Centralized mining will cripple the ability to fight censorship.

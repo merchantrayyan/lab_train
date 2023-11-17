@@ -1,0 +1,1 @@
+You have too many background processes running then. This shouldn't give you a single more frame on proper setups, think about removing some stuff.

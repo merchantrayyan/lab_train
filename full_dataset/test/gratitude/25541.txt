@@ -1,0 +1,1 @@
+Good luck. Netflix restricts known VPN IP ranges. Your best bet is a buddy with Open VPN server stateside and open vpn client app on your device.

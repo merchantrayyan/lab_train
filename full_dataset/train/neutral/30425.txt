@@ -1,0 +1,1 @@
+Just curious, would it be logged on the system if they were accessed?

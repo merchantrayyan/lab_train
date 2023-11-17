@@ -1,0 +1,1 @@
+I think he meant to say that it wouldn't be efficient to build a mic with a SoC built-in.

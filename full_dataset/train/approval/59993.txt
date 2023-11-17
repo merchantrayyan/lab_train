@@ -1,0 +1,1 @@
+No, only unique roles are properly checked server-side.

@@ -1,0 +1,1 @@
+To pay a merchant that accepts Bitcoin and doesn't accept ERC20, for one.

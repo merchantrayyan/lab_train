@@ -1,0 +1,1 @@
+If the hot end starts pointing towards space you are having a bad problem and you will not go to space today.

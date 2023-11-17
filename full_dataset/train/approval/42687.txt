@@ -1,0 +1,1 @@
+Granted, I dont have a proper measure of the number of monkeys needed to hash $0.05 worth of tx fees.

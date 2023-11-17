@@ -1,0 +1,1 @@
+[NAME], [get_user_id] is a moron.

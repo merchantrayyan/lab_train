@@ -1,0 +1,1 @@
+There are a number of cases where throws are unbreakable, usually relative to grounded position or rage drives. Not including those cuz they are very specific.

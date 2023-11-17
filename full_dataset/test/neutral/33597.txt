@@ -1,0 +1,1 @@
+You're right, there is mongos in every support. That doesn't mean you shouldn't call it out when you see it

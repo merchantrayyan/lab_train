@@ -1,0 +1,1 @@
+The light socket doesn’t provide any light, so it’s useless.

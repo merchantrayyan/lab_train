@@ -1,0 +1,1 @@
+It helps a bunch. Much less strain on the GPU, not sure the exact numbers behind it but it gives my friend ≈40 more frames

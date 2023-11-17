@@ -1,0 +1,1 @@
+There's limitations. Also, someone may have been assigned the number before a player joined the team.

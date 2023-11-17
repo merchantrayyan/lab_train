@@ -1,0 +1,1 @@
+Input: Drink candle. NPC: You don't want to get wax in your mouth, do you? Input: Maybe I do, NPC.

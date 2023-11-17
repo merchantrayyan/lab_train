@@ -1,0 +1,1 @@
+rule 0: dont submit a post if you can't be not stupid

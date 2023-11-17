@@ -1,0 +1,1 @@
+rather than wait for the site to load, we'll just tell you it didn't load - Reddit

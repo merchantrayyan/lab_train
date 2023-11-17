@@ -1,0 +1,1 @@
+If so, then LN payments are *not* safer than unconfirmed TXs.

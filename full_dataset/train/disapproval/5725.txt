@@ -1,0 +1,1 @@
+Not that hard, but definitely time consuming, especially to gather a dataset fit for video training.

@@ -1,0 +1,1 @@
+Just a quick correction: if the next tax bracket is 10% than $10001 would be taxed $500.10

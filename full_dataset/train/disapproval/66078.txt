@@ -1,0 +1,1 @@
+No, that isn't possible. Discord hosts the call, which means any attempt at using wireshark would just show Discord's information, not yours.

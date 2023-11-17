@@ -1,0 +1,1 @@
+Bannner and flask are both viable for both sides, just mess around and get a feel for them.

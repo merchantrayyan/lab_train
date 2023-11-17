@@ -1,0 +1,1 @@
+my computer is a potato but im just curious how do i check for memory leaks on a mac? i lag on a lot of games

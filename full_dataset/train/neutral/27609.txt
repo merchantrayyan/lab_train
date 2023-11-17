@@ -1,0 +1,1 @@
+Well, it is generating them. It has a vector space (latent space) from which you can pick out a face.

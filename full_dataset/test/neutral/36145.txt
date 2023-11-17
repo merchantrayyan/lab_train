@@ -1,0 +1,1 @@
+LN is flawed by design and BTCs limited on-chain capacity cannot carry mainstream LN onboarding.

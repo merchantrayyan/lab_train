@@ -1,0 +1,1 @@
+Anyways. Weird behaviour of it when it was happening is that it hid itself when the video was paused then reappeared as the video continued.

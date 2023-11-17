@@ -1,0 +1,1 @@
+Um, except you would be trusting your private key with a third party. I would recommend verifying a signed message though as a feature to be added.

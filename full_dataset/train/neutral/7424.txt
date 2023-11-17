@@ -1,0 +1,1 @@
+Takes a random post from this subreddit when there's no plates.

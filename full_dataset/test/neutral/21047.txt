@@ -1,0 +1,1 @@
+Situation in chess where it is better not to move or you will end up in a worse position is called Zugzwang.

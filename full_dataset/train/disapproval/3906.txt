@@ -1,0 +1,1 @@
+I guess the trick is not to eliminate susceptibility to 51% but to minimize it extremely.

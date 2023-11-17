@@ -1,0 +1,1 @@
+I have a 1080ti and an i7 8700k and on very fast at 40k bitrate I'm already hitting 50% cpu usage on obs alone, any suggestions?

@@ -1,0 +1,1 @@
+It would probably be horrifying if we tried, when a bug causes an integer overflow and resets our aggression levels. 

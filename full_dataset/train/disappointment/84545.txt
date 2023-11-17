@@ -1,0 +1,1 @@
+> mined the worldwide largest block It was orphaned, so no they were unsuccessful, even when they filled the block with their own hidden txns.

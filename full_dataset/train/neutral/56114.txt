@@ -1,0 +1,1 @@
+I meant characters like [NAME] or [NAME], but that works too.

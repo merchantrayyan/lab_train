@@ -1,0 +1,1 @@
+Sometimes, if there's only one available device, the app will just connect to it when you hit the button.

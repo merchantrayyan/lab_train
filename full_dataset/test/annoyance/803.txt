@@ -1,0 +1,1 @@
+Suddenly, the **average** block confirmation became an unchangeable API paramter? Wow. Just wow.

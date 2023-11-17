@@ -1,0 +1,1 @@
+Any time the results are known before the hypothesis is generated, you should be very skeptical of the methods.
